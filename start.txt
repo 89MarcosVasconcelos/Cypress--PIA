@@ -1,0 +1,5 @@
+#instale as dependencias:
+npm install
+
+#inicie o cypress em modo gráfico
+npx cypress open
